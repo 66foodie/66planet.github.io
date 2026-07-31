@@ -65,14 +65,16 @@ window.ARTICLES = [
     heroCaption:
       "Southern Cross Station-Under a roof shaped like waves, the journey quietly begins.",
     inline: [
+      "image/m/melbourne-01a-inline.jpg",
+      "image/m/melbourne-01b-inline.jpg",
+      "image/m/melbourne-01c-inline.jpg",
+      "image/m/melbourne-01d-inline.jpg",
       "image/m/melbourne-01g-inline.jpg",
       "image/m/melbourne-01h-inline.jpg",
-      "image/m/melbourne-01c-inline.jpg",
       "image/m/melbourne-01e-inline.jpg",
-      "image/m/melbourne-01b-inline.jpg",
-      "image/m/melbourne-01a-inline.jpg",
       "image/m/melbourne-01f-inline.jpg",
-      "image/m/melbourne-01d-inline.jpg",
+      "image/m/melbourne-01g-inline.jpg",
+      "image/m/melbourne-01h-inline.jpg",
       "image/m/melbourne-01i-inline.jpg",
       "image/m/melbourne-01j-inline.jpg",
     ],
@@ -97,12 +99,13 @@ window.ARTICLES = [
     heroCaption: "Singapore Airlines: the same midnight layover, twenty-three years later.",
 
     inline: [
+      "image/m/melbourne-02a-inline.jpg",
       "image/m/melbourne-02b-inline.jpg",
       "image/m/melbourne-02c-inline.jpg",
       "image/m/melbourne-02d-inline.jpg",
       "image/m/melbourne-02e-inline.jpg",
       "image/m/melbourne-02i-inline.jpg",
-      "image/m/melbourne-01j-inline.jpg",
+    
     ],
     pullquote:
       "Distance doesn't cause longing. It just gives it a place to stand.",
@@ -180,9 +183,8 @@ window.ARTICLES = [
     // heroPortrait: true,
     heroCaption: "The skyline glows behind the screen as the film starts.",
     inline: [
-      "image/m/melbourne-04u-inline.jpeg",
-      "image/m/melbourne-04v-inline.jpeg",
       "image/m/melbourne-04a-inline.jpeg",
+      "image/m/melbourne-04ab-inline.jpeg",
       "image/m/melbourne-04b-inline.jpeg",
       "image/m/melbourne-04c-inline.jpeg",
       "image/m/melbourne-04d-inline.jpeg",
@@ -202,6 +204,11 @@ window.ARTICLES = [
       "image/m/melbourne-04r-inline.jpeg",
       "image/m/melbourne-04s-inline.jpeg",
       "image/m/melbourne-04t-inline.jpeg",
+      "image/m/melbourne-04u-inline.jpeg",
+      "image/m/melbourne-04v-inline.jpeg",
+      "image/m/melbourne-04w-inline.jpeg",
+      "image/m/melbourne-04x-inline.jpeg",
+      "image/m/melbourne-04y-inline.jpeg",
     ],
 
     pullquote:
