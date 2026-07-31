@@ -69,8 +69,6 @@ window.ARTICLES = [
       "image/m/melbourne-01b-inline.jpg",
       "image/m/melbourne-01c-inline.jpg",
       "image/m/melbourne-01d-inline.jpg",
-      "image/m/melbourne-01g-inline.jpg",
-      "image/m/melbourne-01h-inline.jpg",
       "image/m/melbourne-01e-inline.jpg",
       "image/m/melbourne-01f-inline.jpg",
       "image/m/melbourne-01g-inline.jpg",
