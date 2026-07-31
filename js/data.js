@@ -102,8 +102,11 @@ window.ARTICLES = [
       "image/m/melbourne-02c-inline.jpg",
       "image/m/melbourne-02d-inline.jpg",
       "image/m/melbourne-02e-inline.jpg",
+      "image/m/melbourne-02f-inline.jpg",
+      "image/m/melbourne-02g-inline.jpg",
+      "image/m/melbourne-02h-inline.jpg",
       "image/m/melbourne-02i-inline.jpg",
-    
+      "image/m/melbourne-02j-inline.jpg",
     ],
     pullquote:
       "Distance doesn't cause longing. It just gives it a place to stand.",
