@@ -453,7 +453,7 @@ window.ARTICLES = [
       "image/a/Glenelg-01zd-inline.jpeg",
     ],
 
-    pullquote: "Founded in 1836, Forever on Holiday Since",
+    pullquote: "Founded in 1836, Forever on Holiday Since Then",
     body: [
       "Adelaide 名字源自於阿德萊德王后（Queen Adelaide），1792 年出生於德國圖林根的邁寧根，是薩克森-邁寧根公國的公主。1818 年她嫁給後來的英國國王威廉四世，並將名字從德文的 Adelheid 改為英文拼法 Adelaide。1830 年威廉加冕為英國國王，Adelaide 隨之成為王后。名字本身也帶著意義——Adelaide 是日耳曼語源，由 adal（高貴）與 haid （種類、良善）組成，可解讀為「高貴的良善」。",
     
